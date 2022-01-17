@@ -7,11 +7,14 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
 - Find Trends on [Twitter](https://twitter.com). Follow lists of your field or users in the field (Examples [lists](https://twitter.com/LChoshen/lists/memberships) in NLP and ML)
 
 # Custom
- - Follow top researchers
+ - Follow top researchers 
      -  [Twitter](https://twitter.com)
      -  [semantic scholar](https://www.semanticscholar.org/me/recommendations)
      -  [ResearchGate](https://www.researchgate.net/) (less popular in computer sciences)
      -  [Google Scholar](https://scholar.google.com/intl/en/scholar/citations.html) ([blog](https://scholar.googleblog.com/2017/10/follow-related-research-for-key-authors.html#:~:text=To%20follow%20related%20research%20for,you%20as%20an%20email%20alert. ) 
+  -  Look for similar papers and other more sophisticated search
+     -  [Research Rabbit](https://www.researchrabbit.ai/)
+     -  [semantic scholar](https://www.semanticscholar.org/me/recommendations)
  
 # All field
  - Follow publications in main conferences (best quality, but a bit later)
@@ -20,6 +23,8 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
 # search for related papers
   - Look for visually close papers in
     -  [ConnectedPapers](https://www.connectedpapers.com/)
+    -  [Research Rabbit](https://www.researchrabbit.ai/)
   - Search by keywords authors or works that cited or was cited:
     -  [Google Scholar](https://scholar.google.com/)
     -  [Semantic Scholar](https://www.semanticscholar.org)
+    -  GPT-3 base search with [elicit](https://elicit.org/)
