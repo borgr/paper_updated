@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Ways to sieve through new papers and look for related ones
 
-You can use the [editor on GitHub](https://github.com/borgr/paper_updated/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project lists ideas to how to get updated and hear of new papers. Feel free to use any of the tools and share new tools that you created\found\use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Trends
+- Follow what is hot in papers with code [Link](https://paperswithcode.com/top-social?num_days=30),  [Tweet about](https://twitter.com/omarsar0/status/1483045014800318468?s=20)
+- Find Trends on [Twitter](https://twitter.com). Follow lists of your field or users in the field (Examples [lists](https://twitter.com/LChoshen/lists/memberships) in NLP and ML)
 
-### Markdown
+# Custom
+ - Follow top researchers
+     -  In [Twitter](https://twitter.com)
+     -  In [semantic scholar](https://www.semanticscholar.org/me/recommendations)
+     -  In [ResearchGate](https://www.researchgate.net/) (less popular in computer sciences)
+     -  In [Google Scholar](https://scholar.google.com/intl/en/scholar/citations.html) ([blog](https://scholar.googleblog.com/2017/10/follow-related-research-for-key-authors.html#:~:text=To%20follow%20related%20research%20for,you%20as%20an%20email%20alert.) 
+ -  
+# All field
+ - Follow publications in main conferences (best quality, but a bit later)
+ - Sieve all of arXiv by subscribing https://arxiv.org/help/subscribe 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/borgr/paper_updated/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# search for related
+  - Look for visually close papers in
+    -  [ConnectedPapers](https://www.connectedpapers.com/)
+  - Search by keywords authors or works that cited or was cited:
+    -  [Google Scholar](https://scholar.google.com/)
+    -  [Semantic Scholar](https://www.semanticscholar.org)
