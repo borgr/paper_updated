@@ -15,7 +15,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
  
 # All field
  - Follow publications in main conferences (best quality, but a bit later)
- - Sieve all of arXiv by subscribing https://arxiv.org/help/subscribe 
+ - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
 
 # search for related papers
   - Look for visually close papers in
