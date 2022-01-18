@@ -27,7 +27,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
   - Search by keywords authors or works that cited or was cited:
     -  [Google Scholar](https://scholar.google.com/)
     -  [Semantic Scholar](https://www.semanticscholar.org)
-    -  GPT-3 base search with [elicit](https://elicit.org/)
+    -  GPT-3 based search with [elicit](https://elicit.org/)
 
 This is hosted in here: [git](https://github.com/borgr/paper_updated), in this [branch](https://github.com/borgr/paper_updated/tree/gh-pages) feel free to contribute 
 
