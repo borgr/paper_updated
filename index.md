@@ -29,6 +29,6 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
     -  [Semantic Scholar](https://www.semanticscholar.org)
     -  GPT-3 base search with [elicit](https://elicit.org/)
 
-This is hosted in here:[git](https://github.com/borgr/paper_updated) In this [branch](https://github.com/borgr/paper_updated/tree/gh-pages) feel free to contribute 
+This is hosted in here: [git](https://github.com/borgr/paper_updated) In this [branch](https://github.com/borgr/paper_updated/tree/gh-pages) feel free to contribute 
 
 Site [url](https://borgr.github.io/paper_updated/) 
