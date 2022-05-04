@@ -15,6 +15,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
   -  Look for similar papers and other more sophisticated search
      -  [Research Rabbit](https://www.researchrabbit.ai/)
      -  [semantic scholar](https://www.semanticscholar.org/me/recommendations)
+     -  [Zeta Alpha](https://search.zeta-alpha.com/)
  
 ## All field
  - Follow publications in main conferences (best quality, but a bit later)
