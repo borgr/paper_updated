@@ -12,7 +12,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
      -  [Twitter](https://twitter.com)
      -  [semantic scholar](https://www.semanticscholar.org/me/recommendations)
      -  [ResearchGate](https://www.researchgate.net/) (less popular in computer sciences)
-     -  [Google Scholar](https://scholar.google.com/intl/en/scholar/citations.html) ([blog](https://scholar.googleblog.com/2017/10/follow-related-research-for-key-authors.html#:~:text=To%20follow%20related%20research%20for,you%20as%20an%20email%20alert. ) 
+     -  [Google Scholar](https://scholar.google.com/intl/en/scholar/citations.html) ([blog](https://scholar.googleblog.com/2017/10/follow-related-research-for-key-authors.html#:~:text=To%20follow%20related%20research%20for,you%20as%20an%20email%20alert]) 
   -  Adjusted to your tastes with time and other more sophisticated tools
      -  [Research Rabbit](https://www.researchrabbit.ai/)
      -  [semantic scholar](https://www.semanticscholar.org/me/recommendations)
