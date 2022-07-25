@@ -5,6 +5,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
 ## Trends
 - Follow what is hot in papers with code [Link](https://paperswithcode.com/top-social?num_days=30),  [Tweet about](https://twitter.com/omarsar0/status/1483045014800318468?s=20)
 - Find Trends on [Twitter](https://twitter.com). Follow lists of your field or users in the field (Examples [lists](https://twitter.com/LChoshen/lists/memberships) in NLP and ML)
+- Find Twitter trends with [labml](https://papers.labml.ai/)
 
 ## Custom
  - Follow top researchers 
