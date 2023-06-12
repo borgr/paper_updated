@@ -23,10 +23,11 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
 
 ## search for related papers
+  - Read the related work/background/intro sections
   - Look for visually close papers in
     -  [ConnectedPapers](https://www.connectedpapers.com/)
     -  [Research Rabbit](https://www.researchrabbit.ai/)
-  - Search by keywords authors or works that cited or was cited:
+  - Search by keywords, authors or works that cited or was cited:
     -  [Google Scholar](https://scholar.google.com/)
     -  [Semantic Scholar](https://www.semanticscholar.org)
     -  GPT-3 based search with [elicit](https://elicit.org/)
