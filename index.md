@@ -1,4 +1,4 @@
-%# Ways to sieve through new papers and look for related ones
+<!-- # Ways to sieve through new papers and look for related ones -->
 
 This project lists ideas to how to get updated and hear of new papers. Feel free to use any of the tools and share new tools that you created\found\use.
 
