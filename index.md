@@ -1,4 +1,4 @@
-# Ways to sieve through new papers and look for related ones
+%# Ways to sieve through new papers and look for related ones
 
 This project lists ideas to how to get updated and hear of new papers. Feel free to use any of the tools and share new tools that you created\found\use.
 
@@ -34,4 +34,4 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
     - [Citation Gecko](https://citationgecko.azurewebsites.net/)
 This is hosted in here: [git](https://github.com/borgr/paper_updated), in this [branch](https://github.com/borgr/paper_updated/tree/gh-pages) feel free to contribute 
 
-Site [url](https://borgr.github.io/paper_updated/) 
+Site [url](https://borgr.github.io/paper_updated/) [Github](https://github.com/borgr/paper_updated/)
