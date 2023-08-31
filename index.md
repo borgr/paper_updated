@@ -34,4 +34,5 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
     - [Citation Gecko](https://citationgecko.azurewebsites.net/)
 This is hosted in here: [git](https://github.com/borgr/paper_updated), in this [branch](https://github.com/borgr/paper_updated/tree/gh-pages) feel free to contribute 
 
-Site [url](https://borgr.github.io/paper_updated/) [Github](https://github.com/borgr/paper_updated/)
+Site [url](https://borgr.github.io/paper_updated/) 
+[Github](https://github.com/borgr/paper_updated/)
