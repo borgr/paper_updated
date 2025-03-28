@@ -28,7 +28,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
  - Follow publications in main conferences (best quality, but a bit later)
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
 
-## search for related papers
+## Search for related papers
   - [Allen's search](https://paperfinder.allen.ai/)
   - Read the related work/background/intro sections
   - Look for visually close papers in
