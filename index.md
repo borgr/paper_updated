@@ -21,12 +21,13 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
      -  [Zeta Alpha](https://search.zeta-alpha.com/)
      -  [PaperParrot](https://www.paperparrot.ai/)
 ## Keep track of papers you've read
-  - [semantic scholar Folders]([https://www.semanticscholar.org/me/recommendations](https://www.semanticscholar.org/me/library/all))
+  - [Semantic scholar Folders](https://www.semanticscholar.org/me/library/all) save papers and get notified when new similar papers are out
   - Notion?
   - Large Google docs or Github list open to the public (editable and sharable but not convenient)
 ## All field
  - Follow publications in main conferences (best quality, but a bit later)
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
+ - [Semantic scholar recommendations](https://www.semanticscholar.org/me/recommendations) get recommendations for papers similar to what you saved and liked
 
 ## Search for related papers
   - [Allen's search](https://paperfinder.allen.ai/)
