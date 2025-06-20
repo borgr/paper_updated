@@ -27,7 +27,6 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
 ## All field
  - Follow publications in main conferences (best quality, but a bit later)
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
- - [Semantic scholar recommendations](https://www.semanticscholar.org/me/recommendations) get recommendations for papers similar to what you saved and liked
 
 ## Search for related papers
   - [Allen's search](https://paperfinder.allen.ai/)
