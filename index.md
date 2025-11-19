@@ -30,6 +30,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
 
 ## Search for related papers
   - [Allen's search](https://paperfinder.allen.ai/)
+  - [Google AI based serch](https://scholar.google.com/scholar_labs/search?hl=en)
   - Read the related work/background/intro sections
   - Look for visually close papers in
     -  [ConnectedPapers](https://www.connectedpapers.com/)
