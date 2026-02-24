@@ -21,6 +21,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
      -  [semantic scholar](https://www.semanticscholar.org/me/recommendations)
      -  [Zeta Alpha](https://search.zeta-alpha.com/)
      -  [PaperParrot](https://www.paperparrot.ai/)
+     -  [Scholar Inbox](https://www.scholar-inbox.com/landing)
 ## Keep track of papers you've read
   - [Semantic scholar Folders](https://www.semanticscholar.org/me/library/all) save papers and get notified when new similar papers are out
   - Notion?
