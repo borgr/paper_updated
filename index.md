@@ -30,7 +30,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
   - Large Google docs or Github list open to the public (editable and sharable but not convenient)
   - General text
     - Obsidian with some integration with extensions (Claude Code or other AI?)
-    - - Notion
+    - Notion
 ## All field
  - Follow publications in main conferences (best quality, but a bit later)
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
