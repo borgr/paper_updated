@@ -23,9 +23,14 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
      -  [PaperParrot](https://www.paperparrot.ai/)
      -  [Scholar Inbox](https://www.scholar-inbox.com/landing)
 ## Keep track of papers you've read
+  - Zotero
+  - Mendeley
+  - EndNote
   - [Semantic scholar Folders](https://www.semanticscholar.org/me/library/all) save papers and get notified when new similar papers are out
-  - Notion?
   - Large Google docs or Github list open to the public (editable and sharable but not convenient)
+  - General text
+    - Obsidian with some integration with extensions (Claude Code or other AI?)
+    - - Notion
 ## All field
  - Follow publications in main conferences (best quality, but a bit later)
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
