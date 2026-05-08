@@ -41,6 +41,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
   - Read the related work/background/intro sections
   - Look for visually close papers in
     -  [ConnectedPapers](https://www.connectedpapers.com/)
+    -  [litmaps](https://app.litmaps.com/)
     -  [Research Rabbit](https://www.researchrabbit.ai/)
   - Search by keywords, authors or works that cited or was cited:
     -  [Google Scholar](https://scholar.google.com/)
