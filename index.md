@@ -36,8 +36,9 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
  - Sieve all of arXiv by [subscribing](https://arxiv.org/help/subscribe)
 
 ## Search for related papers
-  - [Allen's search](https://paperfinder.allen.ai/)
+  - [Asta AI2's search](https://paperfinder.allen.ai/)
   - [Google AI based serch](https://scholar.google.com/scholar_labs/search?hl=en)
+  - [Elicit](https://elicit.com/)
   - Read the related work/background/intro sections
   - Look for visually close papers in
     -  [ConnectedPapers](https://www.connectedpapers.com/)
