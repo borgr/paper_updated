@@ -20,6 +20,9 @@ This project lists ideas for how to get updated and hear of new papers. Feel fre
 
 - **[alphaXiv](https://www.alphaxiv.org/)** — trending arXiv papers with public discussion threads.
 - **[Twitter/X](https://twitter.com)** — the fastest signal for new work. Follow field-specific lists rather than individuals to cut noise (example [lists](https://twitter.com/LChoshen/lists/memberships) in NLP and ML).
+- **[Bluesky](https://bsky.app)** — a smaller, more focused academic community (strong in ML/NLP). Less volume than Twitter, but higher signal-to-noise, and you can subscribe to curated feeds:
+  - **[Paper Skygest](https://bsky.app/profile/did:plc:uaadt6f5bbda6cycbmatcm3z/feed/preprintdigest)** — a personalized feed of just posts that link to papers, ranked by your follow network.
+- **[LinkedIn](https://www.linkedin.com)** — some researchers now post papers here too. Currently the noisiest and least focused of the three for research, but worth a glance if your field is active on it.
 - **[labml](https://papers.labml.ai/)** — surfaces the papers Twitter is buzzing about, ranked.
 - **[trendingPapers](https://trendingpapers.com)** — a site dedicated to what's trending.
 - **[Papers with Code — Trending](https://paperswithcode.com/)** — trending papers, weighted toward those with released code.
