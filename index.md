@@ -41,7 +41,7 @@ This project lists ideas to how to get updated and hear of new papers. Feel free
   - [Elicit](https://elicit.com/)
   - Read the related work/background/intro sections
   - Look for visually close papers in
-    -  [ConnectedPapers](https://www.connectedpapers.com/)
+    -  [ConnectedPapers](https://www.connectedpapers.com/) (might want to use in incognito if you use it like 4 times and not 2. Pay for lots of use)
     -  [litmaps](https://app.litmaps.com/)
     -  [Research Rabbit](https://www.researchrabbit.ai/)
   - Search by keywords, authors or works that cited or was cited:
